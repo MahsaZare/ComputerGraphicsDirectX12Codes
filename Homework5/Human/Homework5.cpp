@@ -7,6 +7,7 @@
 //
 // Globals
 //
+//
 
 IDirect3DDevice9* Device = 0;
 
